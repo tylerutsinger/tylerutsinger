@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Tyler! <br/>  <a href="https://www.linkedin.com/in/tyler-utsinger/">Cybersecurity Student</a>, <a href="https://www.tylerutsinger.com">Personal Website</a></h1>
+
+
+<h2>👨‍💻 Personal Projects/labs :</h2>
+
+- <b>Python</b>
+  - [Assymetric and Symmetric Encryption of files](https://github.com/tylerutsinger/SymmetricAssymetricencryption)(https://tylerutsinger.com/moredetailsproject1.html)
+  
+
+- <b> Using a SIEM in Azure to plot live attacks </b<
+  [SIEM lab using Azure] (
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/tyler-utsinger
 
 <!--
-**tylerutsinger/tylerutsinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
