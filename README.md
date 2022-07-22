@@ -7,12 +7,12 @@
   - [Assymetric and Symmetric Encryption of files](https://github.com/tylerutsinger/SymmetricAssymetricencryption)(https://tylerutsinger.com/moredetailsproject1.html)
   
 
-- <b> Using a SIEM in Azure to plot live attacks </b<
-  [SIEM lab using Azure] (
+- <b> Using a SIEM in Azure to plot live attacks </b>
+  [SIEM lab using Azure] (https://github.com/tylerutsinger/SIEMmap) (https://tylerutsinger.com/moredetailsproject2.html)
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tyler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
